@@ -61,21 +61,17 @@ include("includes/header.php")
 							<div class="contact_form_container">
 								<form action="#" class="contact_form">
 									<div class="row contact_form_row">
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="School Name" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Name" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Email" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Phone Number" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Phone Number" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Name" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Phone Number" required="required"></div>
-										<div class="col-6"><input type="email" class="contact_input" placeholder="Gurdian Email"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student Name" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student School" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student Class" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student Sex" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Name" required="required"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Phone Number" required="required"></div>
-										<div class="col-6"><input type="email" class="contact_input" placeholder="Gurdian Email"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="School Name" required="required" name="school_name"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Name" required="required" name="school_coach"> </div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Email" required="required" name="coach_email"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Phone Number" required="required" name="coach_phone"></div>
+										
+
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 1 Name" required="required" name="student_name1"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 1 Class" required="required"  name="student_class1"> </div>
+										<div class="col-6"><input type="email" class="contact_input" placeholder="Student 1 Sex" name="student_sex1"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 1 Age" required="required" name="student_age1"></div>
+						
 										
 									</div>
 									<button class="contact_button">REGISTER</button>
