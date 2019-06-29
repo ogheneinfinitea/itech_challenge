@@ -68,9 +68,87 @@ include("includes/header.php")
 										
 
 										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 1 Name" required="required" name="student_name1"></div>
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 1 Class" required="required"  name="student_class1"> </div>
-										<div class="col-6"><input type="email" class="contact_input" placeholder="Student 1 Sex" name="student_sex1"></div>
+										<div class="col-md-6">
+											
+											<select class="contact_input">
+												<option value=" "> ---Student 1 Sex--- </option>
+
+						                            <option lass="contact_input" value="male"> Male </option>
+						                            <option  lass="contact_input" 	value="female">Female</option>
+											</select>
+										</div>
+										<div class="col-md-6">
+											
+											<select class="contact_input">
+												<option value=" "> --Student 1 Class-- </option>
+
+						                            <option lass="contact_input" value="JSS1"> JSS1 </option>
+						                            <option  lass="contact_input" 	value="JSS2">JSS2</option>
+						                            <option lass="contact_input" value="JSS3"> JSS3 </option>
+						                            <option  lass="contact_input" 	value="SSS1">SSS1</option>
+						                            <option lass="contact_input" value="SSS2"> SSS2 </option>
+						                            <option  lass="contact_input" 	value="SSS3">SSS3</option>
+											</select>
+										</div>
 										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 1 Age" required="required" name="student_age1"></div>
+
+
+
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 2 Name" required="required" name="student_name1"></div>
+										<div class="col-md-6">
+											
+											<select class="contact_input">
+												<option value=" "> ---Student 2 Sex--- </option>
+
+						                            <option lass="contact_input" value="male"> Male </option>
+						                            <option  lass="contact_input" 	value="female">Female</option>
+											</select>
+										</div>
+										<div class="col-md-6">
+											
+											<select class="contact_input">
+												<option value=" "> --Student 2 Class-- </option>
+
+						                             <option lass="contact_input" value="JSS1"> JSS1 </option>
+						                            <option  lass="contact_input" 	value="JSS2">JSS2</option>
+						                            <option lass="contact_input" value="JSS3"> JSS3 </option>
+						                            <option  lass="contact_input" 	value="SSS1">SSS1</option>
+						                            <option lass="contact_input" value="SSS2"> SSS2 </option>
+						                            <option  lass="contact_input" 	value="SSS3">SSS3</option>
+											</select>
+										</div>
+
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 2 Age" required="required" name="student_age1"></div>
+
+
+
+
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 3 Name" required="required" name="student_name1"></div>
+										<div class="col-md-6">
+											
+											<select class="contact_input">
+												<option value=" "> ---Student 3 Sex--- </option>
+
+						                            <option lass="contact_input" value="male"> Male </option>
+						                            <option  lass="contact_input" 	value="female">Female</option>
+											</select>
+										</div>
+										<div class="col-md-6">
+											
+											<select class="contact_input">
+												<option value=" "> --Student 3 Class-- </option>
+
+						                             <option lass="contact_input" value="JSS1"> JSS1 </option>
+						                            <option  lass="contact_input" 	value="JSS2">JSS2</option>
+						                            <option lass="contact_input" value="JSS3"> JSS3 </option>
+						                            <option  lass="contact_input" 	value="SSS1">SSS1</option>
+						                            <option lass="contact_input" value="SSS2"> SSS2 </option>
+						                            <option  lass="contact_input" 	value="SSS3">SSS3</option>
+											</select>
+										</div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student 3 Age" required="required" name="student_age1"></div>
+
+										
 						
 										
 									</div>
