@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Contact</title>
+<title>School Registration</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Sportify template project">
@@ -17,7 +17,9 @@
 <body>
 
 
-
+<?php  
+include("includes/header.php")
+?>
 	<!-- Home -->
 
 	<div class="home">
