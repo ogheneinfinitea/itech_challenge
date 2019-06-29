@@ -169,6 +169,7 @@
 										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Phone Number" required="required"></div>
 										<div class="col-12"><input type="email" class="contact_input" placeholder="Gurdian Email"></div>
 										
+										
 									</div>
 									<button class="contact_button">REGISTER</button>
 								</form>

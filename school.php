@@ -16,109 +16,7 @@
 </head>
 <body>
 
-<div class="super_container">
-	
-	<!-- Header -->
 
-	<header class="header">
-		<div class="header_wrap d-flex flex-row align-items-center justify-content-center">
-			
-			<!-- Logo -->
-			<div class="logo"><a href="#"><img src="images/logo_1.png" alt=""></a></div>
-
-			<!-- Main Nav -->
-			<nav class="main_nav">
-				<ul class="d-flex flex-row align-items-center justify-content-center">
-					<li><a href="index.html">home</a></li>
-					<li><a href="about.html">about us</a></li>
-					<li><a href="classes.html">classes</a></li>
-					<li><a href="blog.html">blog</a></li>
-					<li class="active"><a href="contact.html">contact</a></li>
-				</ul>
-			</nav>
-
-			<!-- Social -->
-			<div class="social header_social">
-				<ul class="d-flex flex-row align-items-center justify-content-start">
-					<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-				</ul>
-			</div>
-
-			<!-- Hamburger -->
-			<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
-
-		</div>
-	</header>
-
-	<!-- Fixed Header -->
-
-	<header class="fixed_header">
-		<div class="header_wrap d-flex flex-row align-items-center justify-content-center">
-			
-			<!-- Logo -->
-			<div class="logo"><a href="#"><img src="images/logo_2.png" alt=""></a></div>
-
-			<!-- Main Nav -->
-			<nav class="main_nav">
-				<ul class="d-flex flex-row align-items-center justify-content-center">
-					<li><a href="index.html">home</a></li>
-					<li><a href="about.html">about us</a></li>
-					<li><a href="classes.html">classes</a></li>
-					<li><a href="blog.html">blog</a></li>
-					<li class="active"><a href="contact.html">contact</a></li>
-				</ul>
-			</nav>
-
-			<!-- Social -->
-			<div class="social header_social">
-				<ul class="d-flex flex-row align-items-center justify-content-start">
-					<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-				</ul>
-			</div>
-
-			<!-- Hamburger -->
-			<div class="hamburger ml-auto"><i class="fa fa-bars" aria-hidden="true"></i></div>
-
-		</div>
-	</header>
-
-	<!-- Menu -->
-
-	<div class="menu">
-		<div class="menu_door door_left"></div>
-		<div class="menu_door door_right"></div>
-		<div class="menu_content d-flex flex-column align-items-center justify-content-center">
-			<div class="menu_close">close</div>
-			<div class="menu_nav_container">
-				<nav class="menu_nav text-center">
-					<ul>
-						<li><a href="index.html">home</a></li>
-						<li><a href="about.html">about us</a></li>
-						<li><a href="classes.html">classes</a></li>
-						<li><a href="blog.html">blog</a></li>
-						<li><a href="contact.html">contact</a></li>
-					</ul>
-				</nav>
-			</div>
-			<div class="social menu_social">
-				<ul class="d-flex flex-row align-items-center justify-content-start">
-					<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-					<li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
 
 	<!-- Home -->
 
@@ -126,7 +24,7 @@
 		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/classes.jpg" data-speed="0.8"></div>
 		<div class="home_overlay"></div>
 		<div class="home_container d-flex flex-column align-items-center justify-content-center">
-			<div class="home_title"><h1>Contact</h1></div>
+			<div class="home_title"><h1>SCHOOL REGISTRATION</h1></div>
 		</div>
 	</div>
 
@@ -140,15 +38,15 @@
 				<div class="col-xl-6">
 					<div class="contact_content">
 						<div>
-							<div class="contact_logo"><img src="images/logo_1.png" alt=""></div>
-							<div class="contact_title">Our Contact Info</div>
+							
+							<div class="contact_title">School Information</div>
 							<div class="row contact_row">
 								<div class="col-xl-6">
 									<div class="contact_text">
-										<p>Auctor nisl vitae auctor faucibus. Pellentesque imperdiet auctor eros, sit amet ornare mauris malesuada in. Duis rutrum nisi tempus finibus luctus. Sed porta vel lacus quis.</p>
+										<p></p>
 									</div>
 								</div>
-								<div class="col-xl-6">
+								<!-- <div class="col-xl-6">
 									<div class="contact_info_list">
 										<ul>
 											<li>Main Str, no 23, New York</li>
@@ -156,15 +54,27 @@
 											<li>gymsportify@contact.com</li>
 										</ul>
 									</div>
-								</div>
+								</div> -->
 							</div>
 							<div class="contact_form_container">
 								<form action="#" class="contact_form">
 									<div class="row contact_form_row">
-										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Your name" required="required"></div>
-										<div class="col-md-6"><input type="email" class="contact_input" placeholder="Your email" required="required"></div>
-										<div class="col-12"><input type="text" class="contact_input" placeholder="Subject"></div>
-										<div class="col-12"><textarea class="contact_input contact_textarea" placeholder="Message" required="required"></textarea></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="School Name" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Name" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Email" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Phone Number" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Coach Phone Number" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Name" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Phone Number" required="required"></div>
+										<div class="col-6"><input type="email" class="contact_input" placeholder="Gurdian Email"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student Name" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student School" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student Class" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Student Sex" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Name" required="required"></div>
+										<div class="col-md-6"><input type="text" class="contact_input" placeholder="Gurdian Phone Number" required="required"></div>
+										<div class="col-6"><input type="email" class="contact_input" placeholder="Gurdian Email"></div>
+										
 									</div>
 									<button class="contact_button">REGISTER</button>
 								</form>
@@ -173,8 +83,18 @@
 					</div>
 				</div>
 
+
 				<!-- Contact Map -->
-				
+				<div class="col-xl-6">
+					<div class="contact_map_container">
+						<br>		<br>		<br>
+						<br>		<br>		<br>	
+						<br>		<br>		<br>						<div class="Map">
+								<img src="images/contact.jpg" height="600px">
+							</div>
+						
+					</div>
+				</div>
 
 			</div>
 		</div>
